@@ -7,21 +7,32 @@ I’m currently pursuing a Master's in Mechanical Engineering with a focus on ro
 - 🤖 Specializing in Robotics and Control of Powered Prostheses
 - 💻 Proficient in Python and MATLAB
 
-### Projects
-Here are some highlights of my work:
-- **[Project Name](#)**: Brief description of the project and its significance.
-- **[Project Name](#)**: Brief description of the project and its significance.
-- **[Project Name](#)**: Brief description of the project and its significance.
+#### Kinematics Dynamics and Control of Robots (KDCR)
+- **Description**: Kinematics Dynamics and Control of Robots course work. It included trajectory planning and control of serial and parallel robots. [View on Github](https://github.com/eladsimantov/KDCR/)
+- **Technologies**: MATLAB, Inverse Dynamics, PD/PID and MinMax Control
 
-### Skills
-- **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-- **Tools and Technologies**: Git, LaTeX, Overleaf, Zotero, OpenSim
-- **Areas of Expertise**: Robotics, Control Systems, Biomechanics
+#### Rehabilitation Biomechanics
+- **Description**: As a final project, I analyzed motion capture, sEMG, and GRF signals based on an experiment conducted in my lab. [View on GitHub](https://github.com/eladsimantov/Rehabilitation-Biomechanics/)
+- **Technologies**: MATLAB
+
+
+#### Robot Navigation
+- **Description**: A project focused on implementing various path planning algorithms in MATLAB to solve the Bed Mover problem. [View on Github](https://github.com/eladsimantov/Robot-Navigation/)
+- **Technologies**: MATLAB, DFS, BFS and A* algorithms
+
+
+#### Applied Machine Learning for Engineers
+- **Description**: A project focused on implementing Physics Informed Neural Networks for solving PDEs of membrane wave equations. [View on Github](https://github.com/eladsimantov/Applied-ML-For-Engineers/)
+- **Technologies**: Python, Pytorch, PINNs
+
+
+#### Inertial Navigation System (INS)
+- **In progress**: [View on Github](https://github.com/eladsimantov/Learning-Based-Inertial-Sensing)
 
 ### Contact
 Feel free to reach out to me:
-- 📧 Email: [contact@elad.simplelogin.com](mailto:contact@elad.simplelogin.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/elad-siman-tov/)
-- 📝 Personal Website: [Your Website](https://eladsimantov.github.io/)
+- 📧 Email: [Contact](mailto:contact@elad.simplelogin.com)
+- 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/elad-siman-tov/)
+- 📝 Personal Website: [My Website](https://eladsimantov.github.io/)
 
 Thanks for visiting my profile! 😊
