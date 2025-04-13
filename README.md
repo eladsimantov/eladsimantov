@@ -26,8 +26,9 @@ I’m currently pursuing a Master's in Mechanical Engineering with a focus on ro
 - **Technologies**: Python, Pytorch, PINNs
 
 
-#### Inertial Navigation System (INS)
-- **In progress**: [View on Github](https://github.com/eladsimantov/Learning-Based-Inertial-Sensing)
+#### Learning Based Inertial Sensing
+- **Description**: A Convolutional Neural Network gait phase estimator based solely on IMU measurements (offline). [View on Github](https://github.com/eladsimantov/Learning-Based-Inertial-Sensing)
+- **Technologies**: CNN, Pytorch, IMUs.
 
 ### Contact
 Feel free to reach out to me:
